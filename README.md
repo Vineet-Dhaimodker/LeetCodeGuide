@@ -2,7 +2,6 @@
 ## Contributors
 ![Your Repository's Stats](https://contrib.rocks/image?repo=Vineet-Dhaimodker/LeetCodeGuide)
 
-[![Contributors](https://img.shields.io/github/contributors/Vineet-Dhaimodker/LeetCodeGuide)](https://github.com/Vineet-Dhaimodker/LeetCodeGuide/graphs/contributors)
 [![Issues](https://img.shields.io/github/issues/Vineet-Dhaimodker/LeetCodeGuide)](https://github.com/Vineet-Dhaimodker/LeetCodeGuide/issues)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr-raw/Vineet-Dhaimodker/LeetCodeGuide)](https://github.com/Vineet-Dhaimodker/LeetCodeGuide/pulls)
 [![Last Commit](https://img.shields.io/github/last-commit/Vineet-Dhaimodker/LeetCodeGuide)](https://github.com/Vineet-Dhaimodker/LeetCodeGuide)
