@@ -1,6 +1,6 @@
 class Solution(object):
     def mySqrt(self, x):
-        l = x
+        l = 0
         r = x
         while l <= r:
             mid = l + (r-l)//2
